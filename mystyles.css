@@ -3,12 +3,40 @@ body{
 }
  h1{
     text-shadow: 3px 3px #9cacfc;
-    font-size:55px
- }
+    font-size:55px;
+}
+.firstP{
+  color:#ff7cef;
+  font-family: monospace;
+}
+h4{
+   font-family: cursive;
+}
+
  .list1{
    color: #a1fc97
  }
-
+h5{
+  color:#f97789;
+  font-family:cursive;
+}
+.list2{
+  color: #f97789
+}
+h6{
+  color:#cf76f9;
+  font-size: 20px;
+}
 .secondP{
-  font-size:55px
+  font-size:55px;
+  color:#3439a8
+}
+table{
+  color:#fff351
+}
+div {
+    width: 300px;
+    border: 25px solid blue;
+    padding: 25px;
+    margin: 25px;
 }
