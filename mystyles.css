@@ -1,37 +1,39 @@
 body{
-  background-color: #bcf7ff;
+  background-color:#26547c;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
  h1{
     text-shadow: 3px 3px #9cacfc;
     font-size:55px;
+    color: white;
 }
 
 h2{
-  color:#de91ff;
+  color:#e21281;
   font-family: "Comic Sans MS", cursive, sans-serif
 }
 
+
 .firstP{
   font-family: "Comic Sans MS", cursive, sans-serif;
-  color: blue;
+  color: #e21281;
 }
 
 h4{
    font-family: "Comic Sans MS", cursive, sans-serif;
-   color:#ffd3f6;
+   color:#06D6A0;
 }
 
  .list1{
-   color: #a1fc97
+   color:#06D6A0
  }
 h5{
-  color:#f97789;
-  font-family:cursive;
+  color:FFD166;
 }
 .list2{
   list-style: armenian;
-  color: #f97789;
+  color:#FFD166;
 }
 h6{
   color:#cf76f9;
