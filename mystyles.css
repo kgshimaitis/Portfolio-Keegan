@@ -1,16 +1,25 @@
 body{
   background-color: #bcf7ff;
 }
+
  h1{
     text-shadow: 3px 3px #9cacfc;
     font-size:55px;
 }
-.firstP{
-  color:#ff7cef;
-  font-family: monospace;
+
+h2{
+  color:#de91ff;
+  font-family: "Comic Sans MS", cursive, sans-serif
 }
+
+.firstP{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: blue;
+}
+
 h4{
-   font-family: cursive;
+   font-family: "Comic Sans MS", cursive, sans-serif;
+   color:#ffd3f6;
 }
 
  .list1{
@@ -21,7 +30,8 @@ h5{
   font-family:cursive;
 }
 .list2{
-  color: #f97789
+  list-style: armenian;
+  color: #f97789;
 }
 h6{
   color:#cf76f9;
