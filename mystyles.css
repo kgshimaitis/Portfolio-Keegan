@@ -50,9 +50,6 @@ li:before{
   color:#FFD166;
 }
 
-#div1{
-
-}
 h6{
   color:#cf76f9;
   font-size: 20px;
@@ -76,11 +73,19 @@ table{
   color:#fff351
 }
 
-div{
+#div2{
     width: 200px;
     border: 20px;
-    border-style: groove;
+    border-style:inset ;
     border-color: #09efb2;
     padding: 20px;
+    padding-bottom: color:blue;
+    padding-top: color: blue;
     margin: 20px;
+}
+img{
+  border-color: #f7bf07;
+  border-style: groove;
+  margin-top: 30px
+
 }
