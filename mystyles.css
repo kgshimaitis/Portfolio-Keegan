@@ -20,11 +20,18 @@ h2{
   color: #e21281;
 }
 
+.div3{
+  float:right;
+}
+
 h4{
    font-family: "Comic Sans MS", cursive, sans-serif;
    color:#06D6A0;
 }
-
+.column1{
+  float: left;
+  width:33.33%;
+}
  .list1{
    color:#06D6A0;
    list-style: none;
@@ -36,6 +43,10 @@ h4{
 .classesL{
   list-style:none;
 }
+
+
+
+
 
 h5{
   color:#FFD166;
@@ -86,6 +97,7 @@ table{
 img{
   border-color: #f7bf07;
   border-style: groove;
-  margin-top: 30px
-
+  width:250px;
+  length:250px;
+  margin-bottom: 30px;
 }
