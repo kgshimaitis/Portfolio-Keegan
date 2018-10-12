@@ -26,29 +26,61 @@ h4{
 }
 
  .list1{
-   color:#06D6A0
+   color:#06D6A0;
+   list-style: none;
  }
+ .sportL{
+   list-style: none;
+ }
+
+.classesL{
+  list-style:none;
+}
+
 h5{
-  color:FFD166;
+  color:#FFD166;
+  font-size: 15px;
+}
+
+li:before{
+  content: "\2605"
 }
 .list2{
-  list-style: armenian;
+  list-style: none;
   color:#FFD166;
+}
+
+#div1{
+
 }
 h6{
   color:#cf76f9;
   font-size: 20px;
 }
+
 .secondP{
-  font-size:55px;
-  color:#3439a8
+  color: #cf76f9;
+  font-size: 17px;
+}
+
+.thirdP{
+  font-size:20px;
+  color:#d4f7f6;
+}
+
+h7{
+  color:#fff351;
+  font-size:23px;
 }
 table{
   color:#fff351
 }
-div {
-    width: 300px;
-    border: 25px solid blue;
-    padding: 25px;
-    margin: 25px;
+
+div{
+    width: 200px;
+    border: 20px;
+    border-style: groove;
+    border-color: #09efb2;
+    padding: 20px;
+    margin: 20px;
 }
